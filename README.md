@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do Projeto Playground Functions!!
+# Boas-vindas ao repositório do Projeto Playground Functions!!!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver **qualquer dúvida** nos envie no _Slack_ da turma! #vqv 🚀
 
